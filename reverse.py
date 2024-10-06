@@ -1,4 +1,4 @@
-# Take user input
+     # Take user input
 user_input = input("Please enter a string: ")
 
 # Reverse the string using indexing
